@@ -7,3 +7,6 @@
 [submodule "Drawing"]
 	path = Drawing
 	url = git@github.com:the-bookshelf/misc-drawing.git
+[submodule "Foreign Languages"]
+	path = Foreign Languages
+	url = git@github.com:the-bookshelf/misc-foreign-languages.git
