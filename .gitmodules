@@ -1,0 +1,9 @@
+[submodule "DIY"]
+	path = DIY
+	url = git@github.com:the-bookshelf/misc-diy.git
+[submodule "Piano"]
+	path = Piano
+	url = git@github.com:the-bookshelf/misc-piano.git
+[submodule "Drawing"]
+	path = Drawing
+	url = git@github.com:the-bookshelf/misc-drawing.git
