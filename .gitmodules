@@ -10,3 +10,6 @@
 [submodule "Foreign Languages"]
 	path = Foreign Languages
 	url = git@github.com:the-bookshelf/misc-foreign-languages.git
+[submodule "Economics"]
+	path = Economics
+	url = git@github.com:the-bookshelf/misc-economics.git
